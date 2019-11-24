@@ -76,7 +76,7 @@ WebViewStub             # Install Android System Webview (Stub) (Android 7.0+) (
 
 # Super+
 ActionsServices         # Install Actions Services (Android 9.0+)
-BetterTogether          # Install Better Together (Android 9.0+)
+#BetterTogether          # Install Better Together (Android 9.0+)
 DMAgent                 # Install Google Apps Device Policy
 Docs                    # Install Google Docs
 #Earth                   # Install Google Earth
